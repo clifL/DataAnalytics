@@ -1,0 +1,12 @@
+Qns1) Tutorial 3 & 4
+Step 1: Arrange the data into 2D
+Step 2: Determine which features are meaningful for data mining (Should i use all feature or some features?)
+Step 3: Eigendecomposition
+PCA is to capture changes, since 2 is a constant in feature 3, thus the result gotten will be 0, it means there is no variant occupy by the 3rd feature
+Step 4: Get the features that adds up to (>=65%) then rest of the features throw away
+(Note in lab 2, prof will only want us to capture 2 ~ 3 features only)
+Step 4.5: We need to drop the non-constant features in lab test
+
+
+Step 5: Do plotting - Need to know how to plot in terms of 3D or else PC1 to PC2, PC2 to PC3
+

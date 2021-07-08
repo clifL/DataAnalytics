@@ -1,2 +1,20 @@
+Week 1 - Covariance and Correlation, Clean missing data, Discard Outliners, Remove duplicate data
+Week 2 Part 1- Aggregation, Sampling, Discretization, Principal Component Analysis
+Week 2 Part 2- Decision Tree Classifier
+Week 3 - Model Data Overfitting and Mutiple Regression, Linear Regression, Regularization,  Model Selection via Cross Validation, Basis Function Regression
+Week 4 - Classification Analysis - K Nearest Neighbour, Naive Bayes, Linear Prediction using Logistics Regression and linear Support Vector Machine,
+Non Linear Support Vector Machine(SVM), Visualization of Decision Boundary on various classifiers
+Week 6 Part 1- Clustering Analysis - K-means Clustering, Hierarchical Clustering, Density Based Clustering
+Week 6 Part 2- Anomaly Detection - Statistical Approach, Proximity Based Approach
+
+
 PCA - Week 2
 KNN - Week 4
+
+
+T2 --> Decision & PCA,  T4 -KNN
+
+
+
+T3 - Regression
+T6 - K-means clustering
