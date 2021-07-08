@@ -8,13 +8,4 @@ Week 6 Part 1- Clustering Analysis - K-means Clustering, Hierarchical Clustering
 Week 6 Part 2- Anomaly Detection - Statistical Approach, Proximity Based Approach
 
 
-PCA - Week 2
-KNN - Week 4
-
-
-T2 --> Decision & PCA,  T4 -KNN
-
-
-
-T3 - Regression
-T6 - K-means clustering
+Tested: PCA, Decision Tree
